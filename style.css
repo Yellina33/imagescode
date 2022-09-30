@@ -1,0 +1,21 @@
+body {
+    width: 90%vw;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: aqua;
+    color: darkblue;
+
+}
+
+hero {
+    background-image: url(/Users/yeli/Desktop/imagesCode/images/jason-briscoe-HN_4K2diUWs-unsplash.jpg);
+    background-position: cover;
+    filter: opacity(50%);
+}
+    
