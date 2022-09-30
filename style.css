@@ -13,7 +13,7 @@ h1 {
 
 }
 
-hero {
+.hero {
     background-image: url(/Users/yeli/Desktop/imagesCode/images/jason-briscoe-HN_4K2diUWs-unsplash.jpg);
     background-position: cover;
     filter: opacity(50%);
